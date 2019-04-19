@@ -1,5 +1,4 @@
 # hello-world
-new folder for project
 My name is John Peterson
 I was in the US Navy as an Avionics Technician for 14 years
 I now work as a technical support engineer for Honewell's Building Controls Division for the last 11 years
